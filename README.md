@@ -5,9 +5,6 @@ This is an Online Voting Application built using NodeJs and ExpressJS using the 
 - Authentication -> PassportJS for Local Authentication.
 - ORM -> Sequelize
 
-## Visit The Application
-
-The Application is Deployed on Render.com - [click here to visit](https://voting-app-uw8b.onrender.com/)
 
 This Application is build around Two Personas
 1. Election Admin - Create/Hosts Elections with Questions to Answer
